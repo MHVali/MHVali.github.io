@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Mohammad Vali
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Mohammad Hassan
+last_name: Vali
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,46 +23,49 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Department of Computer Science, Aalto University
+    url: https://www.aalto.fi/en/department-of-computer-science
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:mohammad.vali@aalto.fi'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/MHVali
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/mh-vali/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=Fk3KDc4AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-8023-6352
 
 interests:
-  - Large Language Models
+  - Machine Learning
+  - Signal Processing
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Vector Quantization
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD in Electrical Engineering (Signal Processing with AI Focus)
+    institution: Aalto University
+    date_start: 2020-11-16
+    date_end: 2025-02-24
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing.
+      Supervisor: Prof. Tom Bäckström
+      GPA: 5.0/5.0
+      Published 6 first-author papers at TMLR, IEEE Access, Interspeech and ICASSP.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      url: 'https://aaltodoc.aalto.fi/server/api/core/bitstreams/9b9d4c27-6d00-4b7c-a72a-373f8bdc336d/content'
   - area: MS Computer Science
     institution: Carnegie Mellon University
     date_start: 2013-09-01
