@@ -55,33 +55,42 @@ interests:
 
 education:
   - area: PhD in Electrical Engineering (Signal Processing with AI Focus)
-    institution: Aalto University
+    institution: Department of Information and Communications Engineering, Aalto University
     date_start: 2020-11-16
     date_end: 2025-02-24
     summary: |
-      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing.
+      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing
+
       Supervisor: Prof. Tom Bäckström
+
       GPA: 5.0/5.0
+
       Published 6 first-author papers at TMLR, IEEE Access, Interspeech and ICASSP.
     button:
       text: 'Read Thesis'
       url: 'https://aaltodoc.aalto.fi/server/api/core/bitstreams/9b9d4c27-6d00-4b7c-a72a-373f8bdc336d/content'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: MS in Electrical Engineering-Telecommunications
+    institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani Universoty of Technology
+    date_start: 2015-01-01
+    date_end: 2017-09-31
     summary: |
-      GPA: 4.0/4.0
+      Thesis: Adaptive Image Watermarking
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Supervisor: Prof. Ali Aghagolzadeh
+
+      GPA: 4.5/5.0
+
+      Published 1 first-author paper at journal of Expert Systems with Applications.
+  - area: BS in Electrical Engineering-Electronics
+    institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani Universoty of Technology
     date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_end: 2014-09-31
     summary: |
-      GPA: 3.9/4.0
+      Thesis: Simulation and Assembling of the Injection Pump for Electrospinning Machine
 
-      Minored in Mathematics. President of AI Club.
+      Supervisor: Prof. Mehdi Ezoji
+
+      GPA: 4.5/5.0
 
 work:
   - position: Senior AI Research Scientist
