@@ -59,12 +59,9 @@ education:
     date_start: 2020-11-16
     date_end: 2025-02-24
     summary: |
-      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing
-
-      Supervisor: Prof. Tom Bäckström
-
-      GPA: 5.0/5.0
-
+      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing<br>
+      Supervisor: Prof. Tom Bäckström<br>
+      GPA: 5.0/5.0<br>
       Published 6 first-author papers at TMLR, IEEE Access, Interspeech and ICASSP.
     button:
       text: 'Read Thesis'
@@ -74,22 +71,17 @@ education:
     date_start: 2015-01-01
     date_end: 2017-09-31
     summary: |
-      Thesis: Adaptive Image Watermarking
-
-      Supervisor: Prof. Ali Aghagolzadeh
-
-      GPA: 4.5/5.0
-
+      Thesis: Adaptive Image Watermarking<br>
+      Supervisor: Prof. Ali Aghagolzadeh<br>
+      GPA: 4.5/5.0<br>
       Published 1 first-author paper at journal of Expert Systems with Applications.
   - area: BS in Electrical Engineering-Electronics
     institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani Universoty of Technology
     date_start: 2009-09-01
     date_end: 2014-09-31
     summary: |
-      Thesis: Simulation and Assembling of the Injection Pump for Electrospinning Machine
-
-      Supervisor: Prof. Mehdi Ezoji
-
+      Thesis: Simulation and Assembling of the Injection Pump for Electrospinning Machine<br>
+      Supervisor: Prof. Mehdi Ezoji<br>
       GPA: 4.5/5.0
 
 work:
