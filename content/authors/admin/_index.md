@@ -92,7 +92,7 @@ work:
     date_start: 2024-09-01
     date_end: 2024-11-29
     summary: |
-      Worked on speaker anonymization.
+      Worked on speaker anonymization in DNN-based speech processing tools.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -100,9 +100,9 @@ skills:
   - name: Technical Skills
     items:
       - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
+        description: 'A little bit'
+        # percent: 95
+        # icon: code-bracket
       - name: Machine Learning
         description: ''
         percent: 100
@@ -131,8 +131,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Persian (Native)
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
