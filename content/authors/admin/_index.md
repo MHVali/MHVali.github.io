@@ -59,7 +59,7 @@ education:
     date_start: 2020-11-16
     date_end: 2025-02-24
     summary: |
-      Thesis: Vector Quantization in Deep Neural Netwroks for Speech and Image Processing<br>Supervisor: Prof. Tom Bäckström<br>GPA: 5/5<br>Published six first-author papers in TMLR, IEEE Access, Interspeech and ICASSP.
+      Thesis: Vector Quantization in Deep Neural Netwroks for Speech and Image Processing<br>Supervisor: Prof. Tom Bäckström<br>GPA: 5 / 5<br>Published six first-author papers in TMLR, IEEE Access, Interspeech and ICASSP.
     button:
       text: 'Read Thesis'
       url: 'https://aaltodoc.aalto.fi/server/api/core/bitstreams/9b9d4c27-6d00-4b7c-a72a-373f8bdc336d/content'
@@ -110,18 +110,6 @@ skills:
       - name: Problem Solving
       - name: Teamwork
       - name: Interpersonal skill
-      - name: Interested in Fundamental Solution
-        # description: 'A little bit'
-        # percent: 95
-        # icon: code-bracket
-      # - name: Machine Learning
-      #   description: ''
-      #   percent: 100
-      #   icon: chart-bar
-      # - name: Cloud Computing (AWS/GCP)
-      #   description: ''
-      #   percent: 85
-      #   icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
