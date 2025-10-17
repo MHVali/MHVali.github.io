@@ -27,7 +27,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Computer Science
+  - name: Department of Computer Science  
           Aalto University
     url: https://www.aalto.fi/en/department-of-computer-science
 
@@ -64,7 +64,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://aaltodoc.aalto.fi/server/api/core/bitstreams/9b9d4c27-6d00-4b7c-a72a-373f8bdc336d/content'
-  - area: MS in Electrical Engineering - Tele  communications
+  - area: MS in Electrical Engineering - Telecom
     institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani University of Technology
     date_start: 2015-01-01
     date_end: 2017-09-29
