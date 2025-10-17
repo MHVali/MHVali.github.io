@@ -111,30 +111,6 @@ skills:
         description: ''
         percent: 85
         icon: cloud
-  - name: Knowledge
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Personal
-    items:
-      - name: Problem Solving
-        description: ''
-        percent: 95
-        icon: ''
-      - name: Team Work
-        description: ''
-        percent: 100
-        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
