@@ -99,12 +99,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python (proficient)
-      - name: PyTorch (proficient)
-      - name: TensorFlow (intermediate)
-      - name: Keras (intermediate)
-      - name: C/C++ (intermediate)
-      - name: MATLAB (intermediate)
+      - name: Python #(proficient)
+      - name: PyTorch #(proficient)
+      - name: TensorFlow #(intermediate)
+      - name: Keras #(intermediate)
+      - name: C/C++ #(intermediate)
+      - name: MATLAB #(intermediate)
+  - name: Soft Skills
+    items:
+      - name: Problem Solving
+      - name: Teamwork
+      - name: Interpersonal skill
+      - name: Interested in Fundamental Solution
         # description: 'A little bit'
         # percent: 95
         # icon: code-bracket
