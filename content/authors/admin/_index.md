@@ -99,18 +99,23 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python (proficient)
+      - name: PyTorch (proficient)
+      - name: TensorFlow (intermediate)
+      - name: Keras (intermediate)
+      - name: C/C++ (intermediate)
+      - name: MATLAB (intermediate)
         # description: 'A little bit'
         # percent: 95
         # icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
+      # - name: Machine Learning
+      #   description: ''
+      #   percent: 100
+      #   icon: chart-bar
+      # - name: Cloud Computing (AWS/GCP)
+      #   description: ''
+      #   percent: 85
+      #   icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
