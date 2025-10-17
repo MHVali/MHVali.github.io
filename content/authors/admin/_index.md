@@ -13,8 +13,8 @@ last_name: Vali
 pronouns: he/him
 
 # Status emoji
-status:
-  icon: 🚀
+# status:
+  # icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Department of Computer Science, Aalto University
+    url: https://www.aalto.fi/en/department-of-computer-science
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
