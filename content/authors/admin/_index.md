@@ -99,8 +99,8 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: 'A little bit'
+      - name: Python
+        # description: 'A little bit'
         # percent: 95
         # icon: code-bracket
       - name: Machine Learning
