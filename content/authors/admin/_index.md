@@ -84,7 +84,7 @@ work:
     date_start: 2024-12-01
     date_end: ''
     summary: |2-
-      Conducting research on discrete representation learning in DNNs<br>Thesis Advisor<br>Teaching Assistant
+      Conducting research on discrete representation learning in DNNs<br>Advising PhD thesis and supervising summer interns<br>Teaching Assistant for introduction to Artificial Intelligence course
   - position: Research Intern
     company_name: Inria, France
     company_url: 'https://www.inria.fr/en'
