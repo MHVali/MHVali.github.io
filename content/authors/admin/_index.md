@@ -59,10 +59,7 @@ education:
     date_start: 2020-11-16
     date_end: 2025-02-24
     summary: |
-      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing
-      Supervisor: Prof. Tom Bäckström
-      GPA: 5.0/5.0
-      Published six first-author papers at TMLR, IEEE Access, Interspeech and ICASSP.
+      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing. Supervisor: Prof. Tom Bäckström. GPA: 5.0/5.0. Published six first-author papers at TMLR, IEEE Access, Interspeech and ICASSP.
     button:
       text: 'Read Thesis'
       url: 'https://aaltodoc.aalto.fi/server/api/core/bitstreams/9b9d4c27-6d00-4b7c-a72a-373f8bdc336d/content'
@@ -71,18 +68,13 @@ education:
     date_start: 2015-01-01
     date_end: 2017-09-20
     summary: |
-      Thesis: Adaptive Image Watermarking
-      Supervisor: Prof. Ali Aghagolzadeh
-      GPA: 4.5/5.0
-      Published one first-author paper at journal of Expert Systems with Applications.
+      Thesis: Adaptive Image Watermarking. Supervisor: Prof. Ali Aghagolzadeh. GPA: 4.5/5.0. Published one first-author paper at journal of Expert Systems with Applications.
   - area: BS in Electrical Engineering-Electronics
     institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani University of Technology
     date_start: 2009-09-01
     date_end: 2014-09-20
     summary: |
-      Thesis: Simulation and Assembling of the Injection Pump for Electrospinning Machine
-      Supervisor: Prof. Mehdi Ezoji
-      GPA: 4.0/5.0
+      Thesis: Simulation and Assembling of the Injection Pump for Electrospinning Machine. Supervisor: Prof. Mehdi Ezoji. GPA: 4.0/5.0
 
 work:
   - position: Postdoctoral Researcher
