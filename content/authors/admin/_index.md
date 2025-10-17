@@ -81,7 +81,7 @@ work:
     company_name: Department of Computer Science, Aalto University
     company_url: 'https://www.aalto.fi/en/department-of-computer-science'
     company_logo: ''
-    date_start: 2025-12-01
+    date_start: 2024-12-01
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
