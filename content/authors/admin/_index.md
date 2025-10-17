@@ -64,35 +64,35 @@ education:
       text: 'Read Thesis'
       url: 'https://aaltodoc.aalto.fi/server/api/core/bitstreams/9b9d4c27-6d00-4b7c-a72a-373f8bdc336d/content'
   - area: MS in Electrical Engineering - Telecommunications
-    institution: Babol Noshirvani University of Technology
+    institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani University of Technology
     date_start: 2015-01-01
     date_end: 2017-09-29
     summary: |
       Thesis: Adaptive Image Watermarking<br>Supervisor: Prof. Ali Aghagolzadeh<br>GPA: 4.5 / 5<br>Published one first-author paper in journal of Expert Systems with Applications.
   - area: BS in Electrical Engineering - Electronics
-    institution: Babol Noshirvani University of Technology
+    institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani University of Technology
     date_start: 2009-09-01
     date_end: 2014-09-20
     summary: |
       Thesis: Simulation and Assembling of the Injection Pump for Electrospinning Machine<br>Supervisor: Prof. Mehdi Ezoji<br>GPA: 4 / 5
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Postdoctoral Researcher
+    company_name: Department of Computer Science, Aalto University
+    company_url: 'https://www.aalto.fi/en/department-of-computer-science'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2024-12-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Conducting research on discrete representation learning in DNNs<br>Thesis Advisor<br>Teaching Assistant
+  - position: Research Intern
+    company_name: Inria, France
+    company_url: 'https://www.inria.fr/en'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-09-01
+    date_end: 2024-11-29
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on speaker anonymization.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
