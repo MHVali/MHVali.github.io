@@ -113,14 +113,18 @@ skills:
         icon: cloud
   - name: Knowledge
     items:
-      - name: Image and Speech Processing
+      - name: Python & PyTorch
         description: ''
-      - name: Computer Vision
+        percent: 95
+        icon: code-bracket
+      - name: Machine Learning
         description: ''
-      - name: Machine/Deep Learning
+        percent: 100
+        icon: chart-bar
+      - name: Cloud Computing (AWS/GCP)
         description: ''
-      - name: Deep Generative Models
-        description: ''
+        percent: 85
+        icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
