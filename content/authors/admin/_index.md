@@ -71,7 +71,8 @@ education:
     date_start: 2015-01-01
     date_end: 2017-09-20
     summary: |
-      Thesis: Adaptive Image Watermarking<br>Supervisor: Prof. Ali Aghagolzadeh
+      Thesis: Adaptive Image Watermarking
+      Supervisor: Prof. Ali Aghagolzadeh
       GPA: 4.5/5.0
       Published one first-author paper at journal of Expert Systems with Applications.
   - area: BS in Electrical Engineering-Electronics
