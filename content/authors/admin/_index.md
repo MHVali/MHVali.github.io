@@ -90,7 +90,7 @@ work:
     company_url: 'https://openai.com/'
     company_logo: ''
     date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_end: 2019-12-20
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
