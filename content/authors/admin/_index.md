@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Mohammad Vali
+title: Alex Johnson
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Mohammad Hassan
-last_name: Vali
+first_name: Alex
+last_name: Johnson
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
-# status:
-  # icon:
+status:
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,65 +23,69 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Computer Science, Aalto University
-    url: https://www.aalto.fi/en/department-of-computer-science
+  - name: Meta AI
+    url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:mohammad.vali@aalto.fi'
+    url: 'mailto:alex.johnson@meta.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/MHVali
+    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/mh-vali/
+    url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=Fk3KDc4AAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0001-8023-6352
+    url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Machine Learning
-  - Signal Processing
+  - Large Language Models
   - Computer Vision
-  - Vector Quantization
+  - Reinforcement Learning
+  - AI Ethics
 
 education:
-  - area: PhD in Electrical Engineering (Signal Processing with AI Focus)
-    institution: Department of Information and Communications Engineering, Aalto University
-    date_start: 2020-11-16
-    date_end: 2025-02-24
+  - area: PhD Computer Science (AI Focus)
+    institution: Stanford University
+    date_start: 2015-09-01
+    date_end: 2019-06-30
     summary: |
-      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing. Supervisor: Prof. Tom Bäckström. GPA: 5.0/5.0. Published six first-author papers at TMLR, IEEE Access, Interspeech and ICASSP.
+      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
-      url: 'https://aaltodoc.aalto.fi/server/api/core/bitstreams/9b9d4c27-6d00-4b7c-a72a-373f8bdc336d/content'
-  - area: MS in Electrical Engineering-Telecommunications
-    institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani University of Technology
-    date_start: 2015-01-01
-    date_end: 2017-09-20
+      url: 'https://example.com/thesis.pdf'
+  - area: MS Computer Science
+    institution: Carnegie Mellon University
+    date_start: 2013-09-01
+    date_end: 2015-05-31
     summary: |
-      Thesis: Adaptive Image Watermarking. Supervisor: Prof. Ali Aghagolzadeh. GPA: 4.5/5.0. Published one first-author paper at journal of Expert Systems with Applications.
-  - area: BS in Electrical Engineering-Electronics
-    institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani University of Technology
+      GPA: 4.0/4.0
+
+      Specialized in machine learning and robotics.
+  - area: BS Computer Science
+    institution: MIT
     date_start: 2009-09-01
-    date_end: 2014-09-20
+    date_end: 2013-05-31
     summary: |
-      Thesis: Simulation and Assembling of the Injection Pump for Electrospinning Machine. Supervisor: Prof. Mehdi Ezoji. GPA: 4.0/5.0
+      GPA: 3.9/4.0
+
+      Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Postdoctoral Researcher
-    company_name: Department of Computer Science, Aalto University
-    company_url: 'https://www.aalto.fi/en/department-of-computer-science'
+  - position: Senior AI Research Scientist
+    company_name: Meta AI
+    company_url: 'https://ai.meta.com/'
     company_logo: ''
-    date_start: 2024-12-01
+    date_start: 2020-01-01
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
@@ -90,7 +94,7 @@ work:
     company_url: 'https://openai.com/'
     company_logo: ''
     date_start: 2019-06-01
-    date_end: 2019-12-20
+    date_end: 2019-12-31
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
