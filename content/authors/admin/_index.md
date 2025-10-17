@@ -150,27 +150,34 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+  - title: Doctoral Encouragement Grant
+    url: https://www.nokiafoundation.com/nokia-scholarship
+    date: '2023-09-01'
+    awarder: Nokia Foundation
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      €5,000 grant for encouraging efficient, fast-progressing doctoral research
+  - title: Doctoral Encouragement Grant
+    url: https://walterahlstrom.fi/en/recipients-of-the-grants/
+    date: '2024-02-01'
+    awarder: Walter Ahlström Foundation
+    icon: hero/currency-dollar
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      €3,000 grant for encouraging efficient, fast-progressing doctoral research
+  - title: Research Internship Grant
+    url: https://www.aalto.fi/en/foundation-for-aalto-university-science-and-technology/grants-from-the-foundations-own-funds
+    date: '2024-05-01'
+    awarder: Foundation for Aalto University Science and Technology
+    icon: hero/currency-dollar
+    summary: |
+      €3,000 grant for research internship at Inria, France
+  - title: Research Internship Grant
+    url: https://www.aalto.fi/en/grants-and-awards/ernst-wirtzenin-rahasto
+    date: '2023-12-01'
+    awarder: Ernst Wirtzen Fund
+    icon: hero/currency-dollar
+    summary: |
+      €4,000 grant for research internship at Inria, France
 ---
 
 Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
