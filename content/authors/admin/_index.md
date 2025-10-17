@@ -59,9 +59,9 @@ education:
     date_start: 2020-11-16
     date_end: 2025-02-24
     summary: |
-      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing  
-      Supervisor: Prof. Tom Bäckström  
-      GPA: 5.0/5.0  
+      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing
+      Supervisor: Prof. Tom Bäckström
+      GPA: 5.0/5.0
       Published six first-author papers at TMLR, IEEE Access, Interspeech and ICASSP.
     button:
       text: 'Read Thesis'
