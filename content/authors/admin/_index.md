@@ -125,6 +125,16 @@ skills:
         description: ''
         percent: 85
         icon: cloud
+  - name: Personal
+    items:
+      - name: Problem Solving
+        description: ''
+        percent: 95
+        icon: ''
+      - name: Team Work
+        description: ''
+        percent: 100
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
