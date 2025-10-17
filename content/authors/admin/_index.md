@@ -59,7 +59,7 @@ education:
     date_start: 2020-11-16
     date_end: 2025-02-24
     summary: |
-      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing<br>Supervisor: Prof. Tom Bäckström<br>GPA: 5.0/5.0<br>Published 6 first-author papers at TMLR, IEEE Access, Interspeech and ICASSP.
+      Thesis: Vector Quantization in Deep Neural Networks for Speech and Image Processing<br>Supervisor: Prof. Tom Bäckström<br>GPA: 5.0/5.0<br>Published six first-author papers at TMLR, IEEE Access, Interspeech and ICASSP.
     button:
       text: 'Read Thesis'
       url: 'https://aaltodoc.aalto.fi/server/api/core/bitstreams/9b9d4c27-6d00-4b7c-a72a-373f8bdc336d/content'
@@ -68,7 +68,7 @@ education:
     date_start: 2015-01-01
     date_end: 2017-09-20
     summary: |
-      Thesis: Adaptive Image Watermarking<br>Supervisor: Prof. Ali Aghagolzadeh<br>GPA: 4.5/5.0<br>Published 1 first-author paper at journal of Expert Systems with Applications.
+      Thesis: Adaptive Image Watermarking<br>Supervisor: Prof. Ali Aghagolzadeh<br>GPA: 4.5/5.0<br>Published one first-author paper at journal of Expert Systems with Applications.
   - area: BS in Electrical Engineering-Electronics
     institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani Universoty of Technology
     date_start: 2009-09-01
@@ -77,11 +77,11 @@ education:
       Thesis: Simulation and Assembling of the Injection Pump for Electrospinning Machine<br>Supervisor: Prof. Mehdi Ezoji<br>GPA: 4.0/5.0
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Postdoctoral Researcher
+    company_name: Department of Computer Science, Aalto University
+    company_url: 'https://www.aalto.fi/en/department-of-computer-science'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2025-12-01
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
@@ -111,6 +111,16 @@ skills:
         description: ''
         percent: 85
         icon: cloud
+  - name: Knowledge
+    items:
+      - name: Image and Speech Processing
+        description: ''
+      - name: Computer Vision
+        description: ''
+      - name: Machine/Deep Learning
+        description: ''
+      - name: Deep Generative Models
+        description: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
