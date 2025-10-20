@@ -27,8 +27,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Computer Science  
-          Aalto University
+  - name: Department of Computer Science, Aalto University
     url: https://www.aalto.fi/en/department-of-computer-science
 
 # Social network links
