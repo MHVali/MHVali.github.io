@@ -169,4 +169,4 @@ awards:
       €4,000 grant for research internship at Inria, France
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Mohammad Hassan Vali is a Postdoctoral Researcher at the Department of Computer Science at Aalto University. His postdoctoral research is supervised by Prof. Arno Solin, and funded by Finnish Center of Artifical Intelliggence (FCAI). His research is mainly focused on discrete representation learning in deep neural networks. More specifically, his research aim is to explore more efficient vector quantization tecniques that find applications in image and speech processing downstream applicaitons such as image compression and generation, 3D Gaussin splatting compression, interpretable AI, speaker anonymization, and voice conversion.
