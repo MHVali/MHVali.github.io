@@ -7,7 +7,7 @@ authors:
 date: "2025-09-30"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-09-30"
+# publishDate: "2025-09-30"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,7 +26,7 @@ abstract: Vector quantization is common in deep models, yet its hard assignments
 # tags:
 # - Large Language Models
 
-featured: true
+featured: false
 
 # hugoblox:
 #   ids:
