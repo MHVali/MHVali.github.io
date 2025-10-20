@@ -33,9 +33,9 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
+# - type: preprint
+#   provider: arxiv
+#   id: 1512.04133v1
 # - type: code
 #   url: https://github.com/HugoBlox/hugo-blox-builder
 # - type: slides
@@ -44,13 +44,13 @@ links:
 #   url: "#"
 # - type: poster
 #   url: "#"
+- type: custom
+  label: Link
+  url: https://arxiv.org/abs/2509.26469
 - type: source
-  url: "https://arxiv.org/abs/2509.26469"
+  url: "https://arxiv.org/pdf/2509.26469"
 # - type: video
 #   url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
