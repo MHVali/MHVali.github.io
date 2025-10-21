@@ -47,8 +47,8 @@ links:
 - type: custom
   label: Link
   url: https://arxiv.org/abs/2509.26469
-- type: source
-  url: "https://arxiv.org/pdf/2509.26469"
+# - type: source
+#   url: "https://arxiv.org/pdf/2509.26469"
 # - type: video
 #   url: https://youtube.com
 
