@@ -2,7 +2,7 @@
 title: "DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick"
 authors:
 - Tom Bäckström
-- "**Mohammad Hassan Vali**"
+- Mohammad Hassan Vali
 - Arno Solin
 date: '2025-09-30'
 # publishDate: '2025-10-20T11:47:37.725415Z'

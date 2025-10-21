@@ -2,7 +2,7 @@
 title: Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization
 authors:
 - Haishan Wang
-- "**Mohammad Hassan Vali**"
+- Mohammad Hassan Vali
 - Arno Solin
 date: '2025-04-08'
 # publishDate: '2025-10-20T11:47:37.738946Z'

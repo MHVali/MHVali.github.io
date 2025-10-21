@@ -1,7 +1,7 @@
 ---
 title: Unsupervised Panoptic Interpretation of Latent Spaces in GANs Using Space-Filling Vector Quantization
 authors:
-- "**Mohammad Hassan Vali**"
+- Mohammad Hassan Vali
 - Tom Bäckström
 date: '2025-06-25'
 # publishDate: '2025-10-20T11:47:37.712457Z'

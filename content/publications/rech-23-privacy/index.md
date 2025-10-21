@@ -3,7 +3,7 @@ title: Privacy and Quality Improvements in Open Offices Using Multi-Device Speec
   Enhancement
 authors:
 - Silas Rech
-- "**Mohammad Hassan Vali**"
+- Mohammad Hassan Vali
 - Tom Bäckström
 date: '2023-08-19'
 # publishDate: '2025-10-20T11:47:37.745380Z'
