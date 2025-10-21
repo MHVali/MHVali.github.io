@@ -2,7 +2,7 @@
 title: Privacy Disclosure of Similarity Rank in Speech and Language Processing
 authors:
 - Tom Bäckström
-- '**Mohammad Hassan Vali**'
+- '*Mohammad Hassan Vali*'
 - My Nguyen
 - Silas Rech
 date: '2025-08-11'
