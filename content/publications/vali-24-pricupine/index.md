@@ -4,10 +4,12 @@ title: 'Privacy PORCUPINE: Anonymization of Speaker Attributes Using Occurrence 
 authors:
 - Mohammad Hassan Vali
 - Tom Bäckström
-date: '2024-01-01'
-publishDate: '2025-10-20T11:47:37.673736Z'
+date: '2024-09-05'
+# publishDate: '2025-10-20T11:47:37.673736Z'
 publication_types:
 - paper-conference
-publication: '*Interspeech 2024*'
-doi: 10.21437/Interspeech.2024-117
+publication: '*Proceedings of Interspeech*'
+links:
+- name: URL
+  url: https://www.isca-archive.org/interspeech_2024/vali24_interspeech.html
 ---
