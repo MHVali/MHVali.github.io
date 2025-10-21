@@ -1,10 +1,9 @@
 ---
-title: "DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick"
+title: "Unsupervised Panoptic Interpretation of Latent Spaces in GANs Using Space-Filling Vector Quantization"
 authors:
 - Mohammad Hassan Vali
 - Tom Bäckström
-- Arno Solin
-date: "2025-09-30"
+date: "2025-06-25"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2025-09-30"
@@ -12,13 +11,13 @@ date: "2025-09-30"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 # publication: ""
 # publication_short: ""
 
-abstract: Vector quantization is common in deep models, yet its hard assignments block gradients and hinder end-to-end training. We propose DiVeQ, which treats quantization as adding an error vector that mimics the quantization distortion, keeping the forward pass hard while letting gradients flow. We also present a space-filling variant (SF-DiVeQ) that assigns to a curve constructed by the lines connecting codewords, resulting in less quantization error and full codebook usage. Both methods train end-to-end without requiring auxiliary losses or temperature schedules. On VQ-VAE compression and VQGAN generation across various data sets, they improve reconstruction and sample quality over alternative quantization approaches.
+abstract: Generative adversarial networks (GANs) learn a latent space whose samples can be mapped to real-world images. Such latent spaces are difficult to interpret. Some earlier supervised methods aim to create an interpretable latent space or discover interpretable directions, which requires exploiting data labels or annotated synthesized samples for training. However, we propose using a modification of vector quantization called space-filling vector quantization (SFVQ), which quantizes the data on a piece-wise linear curve. SFVQ can capture the underlying morphological structure of the latent space, making it interpretable. We apply this technique to model the latent space of pre-trained StyleGAN2 and BigGAN networks on various datasets. Our experiments show that the SFVQ curve yields a general interpretable model of the latent space such that it determines which parts of the latent space correspond to specific generative factors. Furthermore, we demonstrate that each line of the SFVQ curve can potentially refer to an interpretable direction for applying intelligible image transformations. We also demonstrate that the points located on an SFVQ line can be used for controllable data augmentation.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,9 +45,9 @@ links:
 #   url: "#"
 - type: custom
   label: Link
-  url: https://arxiv.org/abs/2509.26469
-- type: source
-  url: "https://arxiv.org/pdf/2509.26469"
+  url: https://openreview.net/forum?id=SEJatSGZX8&referrer=%5Bthe%20profile%20of%20Mohammad%20Hassan%20Vali%5D(%2Fprofile%3Fid%3D~Mohammad_Hassan_Vali1)
+# - type: source
+#   url: "https://arxiv.org/pdf/2509.26469"
 # - type: video
 #   url: https://youtube.com
 

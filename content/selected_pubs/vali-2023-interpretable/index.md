@@ -1,10 +1,9 @@
 ---
-title: "DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick"
+title: "Interpretable Latent Space Using Space-Filling Curves for Phonetic Analysis in Voice Conversion"
 authors:
 - Mohammad Hassan Vali
 - Tom Bäckström
-- Arno Solin
-date: "2025-09-30"
+date: "2023-08-24"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2025-09-30"
@@ -12,13 +11,13 @@ date: "2025-09-30"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 # publication: ""
 # publication_short: ""
 
-abstract: Vector quantization is common in deep models, yet its hard assignments block gradients and hinder end-to-end training. We propose DiVeQ, which treats quantization as adding an error vector that mimics the quantization distortion, keeping the forward pass hard while letting gradients flow. We also present a space-filling variant (SF-DiVeQ) that assigns to a curve constructed by the lines connecting codewords, resulting in less quantization error and full codebook usage. Both methods train end-to-end without requiring auxiliary losses or temperature schedules. On VQ-VAE compression and VQGAN generation across various data sets, they improve reconstruction and sample quality over alternative quantization approaches.
+abstract: Vector quantized variational autoencoders (VQ-VAE) are well-known deep generative models, which map input data to a latent space that is used for data generation. Such latent spaces are unstructured and can thus be difficult to interpret. Some earlier approaches have introduced a structure to the latent space through supervised learning by defining data labels as latent variables. In contrast, we propose an unsupervised technique incorporating space-filling curves into vector quantization (VQ), which yields an arranged form of latent vectors such that adjacent elements in the VQ codebook refer to similar content. We applied this technique to the latent codebook vectors of a VQ-VAE, which encode the phonetic information of a speech signal in a voice conversion task. Our experiments show there is a clear arrangement in latent vectors representing speech phones, which clarifies what phone each latent vector corresponds to and facilitates other detailed interpretations of latent vectors.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,9 +45,9 @@ links:
 #   url: "#"
 - type: custom
   label: Link
-  url: https://arxiv.org/abs/2509.26469
-- type: source
-  url: "https://arxiv.org/pdf/2509.26469"
+  url: https://www.isca-archive.org/interspeech_2023/vali23_interspeech.html
+# - type: source
+#   url: "https://arxiv.org/pdf/2509.26469"
 # - type: video
 #   url: https://youtube.com
 
