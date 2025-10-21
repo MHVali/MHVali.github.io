@@ -3,7 +3,7 @@ title: Low-Complexity Real-Time Neural Network for Blind Bandwidth Extension of 
   Speech
 authors:
 - Esteban Gómez
-- Mohammad Hassan Vali
+- "**Mohammad Hassan Vali**"
 - Tom Bäckström
 date: '2023-11-01'
 # publishDate: '2025-10-20T11:47:37.732410Z'

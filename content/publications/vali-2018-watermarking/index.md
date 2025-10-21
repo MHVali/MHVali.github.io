@@ -2,7 +2,7 @@
 title: Optimized watermarking technique using self-adaptive differential evolution
   based on redundant discrete wavelet transform and singular value decomposition
 authors:
-- Mohammad Hassan Vali
+- "**Mohammad Hassan Vali**"
 - Ali Aghagolzadeh
 - Yasser Baleghi
 date: '2018-12-30'

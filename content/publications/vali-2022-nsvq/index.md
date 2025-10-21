@@ -1,7 +1,7 @@
 ---
 title: "NSVQ: Noise Substitution in Vector Quantization for Machine Learning"
 authors:
-- Mohammad Hassan Vali
+- "**Mohammad Hassan Vali**"
 - Tom Bäckström
 date: '2022-01-28'
 # publishDate: '2025-10-20T11:47:37.712457Z'
