@@ -10,13 +10,15 @@ authors:
 - Esteban \Gómez Mellado\
 - Mariem Bouafif
 - Daniel Ramos
+- Sudarsana Kadiri
+- Paavo Alku
 - Mohammad Hassan Vali
-date: '2022-07-01'
-publishDate: '2025-10-20T11:47:37.751763Z'
+date: '2022-07-12'
+# publishDate: '2025-10-20T11:47:37.751763Z'
 publication_types:
 - book
 publication: '*Aalto University*'
-doi: 10.5281/zenodo.6821775
-tags:
-- Speech processing
+links:
+- name: URL
+  url: https://speechprocessingbook.aalto.fi
 ---

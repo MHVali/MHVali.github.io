@@ -4,9 +4,12 @@ title: Stochastic Optimization of Vector Quantization Methods in Application to 
 authors:
 - Mohammad Hassan Vali
 - Tom Bäckström
-date: '2023-01-01'
-publishDate: '2025-10-20T11:47:37.693226Z'
+date: '2023-06-10'
+# publishDate: '2025-10-20T11:47:37.693226Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of ICASSP*'
+publication: '*Proceedings of International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*'
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10096204
 ---

@@ -1,6 +1,6 @@
 ---
-title: 'Privacy PORCUPINE: Anonymization of Speaker Attributes Using Occurrence Normalization
-  for Space-Filling Vector Quantization'
+title: Privacy PORCUPINE: Anonymization of Speaker Attributes Using Occurrence Normalization
+  for Space-Filling Vector Quantization
 authors:
 - Mohammad Hassan Vali
 - Tom Bäckström

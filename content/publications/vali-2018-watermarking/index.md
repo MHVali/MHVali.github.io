@@ -5,12 +5,11 @@ authors:
 - Mohammad Hassan Vali
 - Ali Aghagolzadeh
 - Yasser Baleghi
-date: '2018-01-01'
-publishDate: '2025-10-20T11:47:37.712457Z'
+date: '2018-12-30'
+# publishDate: '2025-10-20T11:47:37.712457Z'
 publication_types:
 - article-journal
 publication: '*Expert Systems with Applications*'
-doi: https://doi.org/10.1016/j.eswa.2018.07.004
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0957417418304196
