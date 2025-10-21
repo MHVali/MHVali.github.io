@@ -26,7 +26,7 @@ abstract: Vector quantization is common in deep models, yet its hard assignments
 # tags:
 # - Large Language Models
 
-featured: false
+featured: true
 
 # hugoblox:
 #   ids:
