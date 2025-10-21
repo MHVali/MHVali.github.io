@@ -1,5 +1,5 @@
 ---
-title: NSVQ: Noise Substitution in Vector Quantization for Machine Learning
+title: "NSVQ: Noise Substitution in Vector Quantization for Machine Learning"
 authors:
 - Mohammad Hassan Vali
 - Tom Bäckström
@@ -8,7 +8,7 @@ date: '2022-01-28'
 publication_types:
 - article-journal
 publication: '*IEEE Access*'
-# links:
-# - name: URL
-#   url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9696322
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9696322
 ---

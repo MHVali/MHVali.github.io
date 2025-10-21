@@ -1,5 +1,5 @@
 ---
-title: DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick
+title: "DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick"
 authors:
 - Tom Bäckström
 - Mohammad Hassan Vali
