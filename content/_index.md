@@ -42,7 +42,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: papers
+    # id: papers
     content:
       title: Selected Publications
       filters:

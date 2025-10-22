@@ -52,6 +52,7 @@ interests:
   - Machine Learning
   - Computer Vision
   - Vector Quantization
+  - Privacy
 
 education:
   - area: PhD in Electrical Engineering - Signal Processing with AI Tools
