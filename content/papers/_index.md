@@ -6,7 +6,7 @@ cms_exclude: true
 
 sections:
   - block: collection
-    id: papers-1
+    # id: papers-1
     content:
       title: Publications
       text: ''
