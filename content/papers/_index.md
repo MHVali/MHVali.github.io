@@ -4,17 +4,6 @@ title: 'Papers'
 type: landing
 cms_exclude: true
 
-- block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-
 sections:
   - block: collection
     id: papers
