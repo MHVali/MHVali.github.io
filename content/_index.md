@@ -58,7 +58,7 @@ sections:
       text: ''
       filters:
         folders:
-          - recent_pubs
+          - publication
         exclude_featured: false
     design:
       view: citation
