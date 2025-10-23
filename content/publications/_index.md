@@ -23,8 +23,8 @@ cms_exclude: true
 #     design:
 #         view: citation
 
-# Optional header image (relative to `static/media/` folder).
-# banner:
-#   caption: ''
-#   image: ''
+Optional header image (relative to `static/media/` folder).
+banner:
+  caption: ''
+  image: 'featured.jpg'
 ---
