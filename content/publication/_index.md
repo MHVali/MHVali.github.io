@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 type: publication
-view: citation
+# view: citation
 cms_exclude: true
 
 # Optional header image (relative to `static/media/` folder).
