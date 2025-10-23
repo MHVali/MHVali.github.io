@@ -63,7 +63,7 @@ sections:
     design:
       view: citation
   - block: markdown
-    id: talks
+    # id: talks
     content:
       title: Invited Talks
       filters:
