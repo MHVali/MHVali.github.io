@@ -62,10 +62,10 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  - block: markdown
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Invited Talks
       filters:
         folders:
           - events
