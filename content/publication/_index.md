@@ -8,8 +8,4 @@ cms_exclude: true
 banner:
   caption: ''
   image: 'img_pubs.jpg'
-design:
-  banner:
-    align: center
-    height: full
 ---
