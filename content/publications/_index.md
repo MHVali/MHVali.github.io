@@ -4,19 +4,19 @@ title: Publications
 type: landing
 cms_exclude: true
 
-view: citation
+# view: citation
 
-# sections:
-#   - block: collection
-#     content:
-#       title: Publications
-#       text: ''
-#       filters:
-#         folders:
-#           - papers
-#         exclude_featured: false
-#     design:
-#       view: citation
+sections:
+  - block: collection
+    content:
+      title: Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
 
 # Optional header image (relative to `static/media/` folder).
 # banner:
