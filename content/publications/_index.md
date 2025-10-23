@@ -1,7 +1,7 @@
 ---
 title: Publications
 # date: 2024-05-19
-type: landing
+type: widget_page
 cms_exclude: true
 
 # view: citation
