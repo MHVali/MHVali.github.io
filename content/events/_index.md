@@ -11,20 +11,26 @@ sections:
       text: |
         ![alt text](https://github.com/MHVali/MHVali.github.io/blob/main/assets/media/talk.jpg?raw=true)
         
-        <h4 style="color:#1F009E;"><b>Event:</b> Speech Group Seminars, University of Cambridge</h4>
+        <h4 style="color:#1F009E;"><b>Event:</b> Speech Group Seminars, University of Cambridge, UK</h4>
         
         - **Title:** Vector Quantization in Deep Neural Netwroks for Speech and Image Processing
         - **Date:** November 11, 2024
         - **Type:** Remote
         - **Link:** [https://talks.cam.ac.uk/talk/index/222601](https://talks.cam.ac.uk/talk/index/222601)
-        
-        <br>
 
-        <h4 style="color:#1F009E;"><b>Event:</b> AaltoML Group, CS Department, Aalto University</h4>
+
+        <h4 style="color:#1F009E;"><b>Event:</b> Multispeech Team Seminars, Inria Research Centre, Nancy, France</h4>
+        
+        - **Title:** Vector Quantization in Deep Neural Netwroks for Speech and Image Processing
+        - **Date:** October 24, 2024
+        - **Type:** In-person
+
+
+        <h4 style="color:#1F009E;"><b>Event:</b> AaltoML Group, CS Department, Aalto University, Finland</h4>
         
         - **Title:** Interpretable Latent Spaces in Deep Neural Netwroks using Space-Filling Vector Quantization 
         - **Date:** January 18, 2024
-        - **Type:** in-person
+        - **Type:** In-person
     design:
       columns: "1"
       background:
