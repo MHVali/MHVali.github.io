@@ -20,10 +20,11 @@ sections:
         url: uploads/resume.pdf
       headings:
         about: ''
-        education: ''
+        # education: ''
         interests: ''
-      hide:
-        education: true
+      params:
+        show_education: false
+
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
