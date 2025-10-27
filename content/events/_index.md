@@ -9,16 +9,16 @@ sections:
       title: "Invited Talks"
       # subtitle: "More details below"
       text: |
-        ### **Event:** Speech Group Seminars, University of Cambridge
+        ##### **Event:** Speech Group Seminars, University of Cambridge
         
         - **Title:** Vector Quantization in Deep Neural Netwroks for Speech and Image Processing
         - **Date:** November 11, 2024
         - **Type:** Remote
         - **Link:** [https://talks.cam.ac.uk/talk/index/222601](https://talks.cam.ac.uk/talk/index/222601)
         
-        <br><br><br>
+        <br><br>
 
-        ### **Event:** AaltoML Group, Aalto University
+        ##### **Event:** AaltoML Group, Aalto University
         
         - **Title:** Vector Quantization in Deep Neural Netwroks for Speech and Image Processing
         - **Date:** November 11, 2024
