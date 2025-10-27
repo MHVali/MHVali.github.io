@@ -7,17 +7,23 @@ sections:
   - block: markdown
     content:
       title: "Invited Talks"
-      subtitle: "More details below"
+      # subtitle: "More details below"
       text: |
-        ## Welcome
+        ###**Event:** Speech Group Seminars, University of Cambridge
         
-        This is **markdown content** that you can edit.
+        - **Title:** Vector Quantization in Deep Neural Netwroks for Speech and Image Processing
+        - **Date:** November 11, 2024
+        - **Type:** Remote
+        - **Link:** [https://talks.cam.ac.uk/talk/index/222601](https://talks.cam.ac.uk/talk/index/222601)
         
-        - Create lists
-        - Add links
-        - Format text
+        <br><br><br>
+
+        ###**Event:** AaltoML Group, Aalto University
         
-        [Learn more](https://example.com)
+        - **Title:** Vector Quantization in Deep Neural Netwroks for Speech and Image Processing
+        - **Date:** November 11, 2024
+        - **Type:** Remote
+        - **Link:** [https://talks.cam.ac.uk/talk/index/222601](https://talks.cam.ac.uk/talk/index/222601)
     design:
       columns: "1"
       background:
