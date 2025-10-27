@@ -3,14 +3,14 @@
 title: Mohammad Vali
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+# name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Mohammad
 last_name: Vali
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 # status:
