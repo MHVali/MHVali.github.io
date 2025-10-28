@@ -19,6 +19,14 @@ sections:
         - **Link:** [https://talks.cam.ac.uk/talk/index/222601](https://talks.cam.ac.uk/talk/index/222601)
 
 
+        <h4 style="color:#1F009E;"><b>Event:</b> ThinkAI 2024 (2nd International Conference on Recent Trends in AI Enabled Technologies), KLH University, Hyderabad, India</h4>
+        
+        - **Title:** Vector Quantization in Deep Neural Netwroks for Speech and Image Processing
+        - **Date:** December 28, 2024
+        - **Type:** Keynote Speaker - Remote
+        - **Link:** [https://klh.edu.in/ThinkAI2024/Speakers.html](https://klh.edu.in/ThinkAI2024/Speakers.html)
+
+
         <h4 style="color:#1F009E;"><b>Event:</b> Multispeech Team Seminars, Inria Research Centre, Nancy, France</h4>
         
         - **Title:** Vector Quantization in Deep Neural Netwroks for Speech and Image Processing
