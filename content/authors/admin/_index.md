@@ -78,14 +78,14 @@ education:
       Thesis: Simulation and Assembling of the Injection Pump for Electrospinning Machine<br>Supervisor: Prof. Mehdi Ezoji<br>GPA: 4 / 5
 
 work:
-  - position: Postdoctoral Researcher
-    company_name: Department of Computer Science, Aalto University
-    company_url: 'https://www.aalto.fi/en/department-of-computer-science'
-    company_logo: ''
-    date_start: 2024-12-01
-    date_end: ''
-    summary: |
-      Conducting research on discrete representation learning in DNNs<br>Co-advising PhD thesis and supervising summer interns<br>Teaching Assistant for introduction to Artificial Intelligence course
+  # - position: Postdoctoral Researcher
+  #   company_name: Department of Computer Science, Aalto University
+  #   company_url: 'https://www.aalto.fi/en/department-of-computer-science'
+  #   company_logo: ''
+  #   date_start: 2024-12-01
+  #   date_end: ''
+  #   summary: |2-
+  #     Conducting research on discrete representation learning in DNNs<br>Co-advising PhD thesis and supervising summer interns<br>Teaching Assistant for introduction to Artificial Intelligence course
   - position: Visiting Researcher
     company_name: Inria, France
     company_url: 'https://www.inria.fr/en'
@@ -100,7 +100,7 @@ work:
     company_logo: ''
     date_start: 2020-11-16
     date_end: '2020-11-30'
-    summary: |
+    summary: |2-
       Developed novel techniques from scratch that improves codebook learning enabling end-to-end training of DNNs, interpretability in DNNs, and speech privacy<br>Co-advising MSc students<br>Teaching assistant
 
 # Skills
@@ -163,7 +163,7 @@ awards:
     awarder: Ernst Wirtzen Fund
     icon: hero/currency-dollar
     summary: |
-
+    
 ---
 
 Mohammad Hassan Vali is a Postdoctoral Researcher in the [Department of Computer Science at Aalto University](https://www.aalto.fi/en/department-of-computer-science), Finland. His postdoctoral research, supervised by [Prof. Arno Solin](https://users.aalto.fi/~asolin/) and funded by the [Finnish Center for Artificial Intelligence](https://fcai.fi) (FCAI), focuses on discrete representation learning in deep neural networks. In particular, his work explores efficient vector quantization techniques with applications in image and speech processing, including image compression and generation, 3D Gaussian splatting compression, interpretable AI, speech privacy, and voice conversion.
