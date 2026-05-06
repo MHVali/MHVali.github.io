@@ -51,7 +51,7 @@ sections:
           - selected_pubs
         featured_only: true
     design:
-      view: card
+      view: article-grid
       columns: 2
   - block: collection
     content:
