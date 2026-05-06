@@ -78,14 +78,15 @@ education:
       Thesis: Simulation and Assembling of the Injection Pump for Electrospinning Machine<br>Supervisor: Prof. Mehdi Ezoji<br>GPA: 4 / 5
 
 work:
-  # - position: Postdoctoral Researcher
-  #   company_name: Department of Computer Science, Aalto University
-  #   company_url: 'https://www.aalto.fi/en/department-of-computer-science'
-  #   company_logo: ''
-  #   date_start: 2024-12-01
-  #   date_end: ''
-  #   summary: |2-
-  #     Conducting research on discrete representation learning in DNNs<br>Co-advising PhD thesis and supervising summer interns<br>Teaching Assistant for introduction to Artificial Intelligence course
+  - position: Postdoctoral Researcher
+    company_name: Department of Computer Science, Aalto University
+    company_url: 'https://www.aalto.fi/en/department-of-computer-science'
+    company_logo: ''
+    date_start: 2024-12-01
+    date_end: ''
+    summary: |2-
+      Conducting research on discrete representation learning in DNNs<br>Co-advising PhD thesis and supervising summer interns<br>Teaching Assistant for introduction to Artificial Intelligence course
+  
   - position: Visiting Researcher
     company_name: Inria, France
     company_url: 'https://www.inria.fr/en'
@@ -94,12 +95,13 @@ work:
     date_end: 2024-11-29
     summary: |
       Developed speaker anonymization algorithms in DNN-based speech processing tools.
+    
     - position: Doctoral Researcher
     company_name: Department of Information and Communications Engineering, Aalto University
     company_url: 'https://www.aalto.fi/en/department-of-information-and-communications-engineering'
     company_logo: ''
     date_start: 2020-11-16
-    date_end: '2020-11-30'
+    date_end: 2020-11-30
     summary: |2-
       Developed novel techniques from scratch that improves codebook learning enabling end-to-end training of DNNs, interpretability in DNNs, and speech privacy<br>Co-advising MSc students<br>Teaching assistant
 
@@ -120,6 +122,7 @@ skills:
       - name: VS Code/PyCharm/Jupyter
       - name: Shell scripting
       - name: LaTeX
+  
   - name: Knowledge
     items:
       - name: Machine Learning (supervised/unsupervised/self-supervised learning, classification, clustering)
