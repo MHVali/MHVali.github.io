@@ -96,7 +96,7 @@ work:
     summary: |
       Developed speaker anonymization algorithms in DNN-based speech processing tools.
     
-    - position: Doctoral Researcher
+  - position: Doctoral Researcher
     company_name: Department of Information and Communications Engineering, Aalto University
     company_url: 'https://www.aalto.fi/en/department-of-information-and-communications-engineering'
     company_logo: ''
