@@ -42,7 +42,7 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: grid
+  - block: collection
     # id: papers
     content:
       title: Selected Publications
@@ -51,7 +51,7 @@ sections:
           - selected_pubs
         featured_only: true
     design:
-      view: compact
+      view: card
       columns: 2
   - block: collection
     content:
