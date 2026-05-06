@@ -84,7 +84,7 @@ work:
     company_logo: ''
     date_start: 2024-12-01
     date_end: ''
-    summary: |2-
+    summary: |
       Conducting research on discrete representation learning in DNNs<br>Co-advising PhD thesis and supervising summer interns<br>Teaching Assistant for introduction to Artificial Intelligence course
   - position: Visiting Researcher
     company_name: Inria, France
@@ -100,7 +100,7 @@ work:
     company_logo: ''
     date_start: 2020-11-16
     date_end: '2020-11-30'
-    summary: |2-
+    summary: |
       Developed novel techniques from scratch that improves codebook learning enabling end-to-end training of DNNs, interpretability in DNNs, and speech privacy<br>Co-advising MSc students<br>Teaching assistant
 
 # Skills
@@ -143,12 +143,14 @@ awards:
     awarder: Nokia Foundation
     icon: hero/currency-dollar
     summary: |
+
   - title: Doctoral Research Excellence Scholarship
     url: https://walterahlstrom.fi/en/recipients-of-the-grants/
     date: '2024-02-01'
     awarder: Walter Ahlström Foundation
     icon: hero/currency-dollar
     summary: |
+
   - title: Research Visit Grant
     url: https://www.aalto.fi/en/foundation-for-aalto-university-science-and-technology/grants-from-the-foundations-own-funds
     date: '2024-05-01'
@@ -161,6 +163,7 @@ awards:
     awarder: Ernst Wirtzen Fund
     icon: hero/currency-dollar
     summary: |
+
 ---
 
 Mohammad Hassan Vali is a Postdoctoral Researcher in the [Department of Computer Science at Aalto University](https://www.aalto.fi/en/department-of-computer-science), Finland. His postdoctoral research, supervised by [Prof. Arno Solin](https://users.aalto.fi/~asolin/) and funded by the [Finnish Center for Artificial Intelligence](https://fcai.fi) (FCAI), focuses on discrete representation learning in deep neural networks. In particular, his work explores efficient vector quantization techniques with applications in image and speech processing, including image compression and generation, 3D Gaussian splatting compression, interpretable AI, speech privacy, and voice conversion.
