@@ -55,23 +55,23 @@ interests:
   - Privacy
 
 education:
-  - area: PhD in Electrical Engineering - Signal Processing with AI Tools
-    institution: Department of Information and Communications Engineering, Aalto University
+  - area: Ph.D.
+    institution: Aalto University, Finland
     date_start: 2020-11-16
-    date_end: 2025-02-24
+    date_end: 2024-11-30
     summary: |
       Thesis: Vector Quantization in Deep Neural Netwroks for Speech and Image Processing<br>Supervisor: Prof. Tom Bäckström<br>GPA: 5 / 5<br>Published six first-author papers in TMLR, IEEE Access, Interspeech and ICASSP.
     button:
       text: 'Read Thesis'
       url: 'https://aaltodoc.aalto.fi/server/api/core/bitstreams/9b9d4c27-6d00-4b7c-a72a-373f8bdc336d/content'
-  - area: MS in Electrical Engineering - Telecom
-    institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani University of Technology
+  - area: M.Sc.
+    institution: Babol Noshirvani University, Iran
     date_start: 2015-01-01
     date_end: 2017-09-29
     summary: |
       Thesis: Adaptive Image Watermarking<br>Supervisor: Prof. Ali Aghagolzadeh<br>GPA: 4.5 / 5<br>Published one first-author paper in journal of Expert Systems with Applications.
-  - area: BS in Electrical Engineering - Electronics
-    institution: Faculty of Electrical and Computer Engineering, Babol Noshirvani University of Technology
+  - area: B.Sc.
+    institution: Babol Noshirvani University, Iran
     date_start: 2009-09-01
     date_end: 2014-09-20
     summary: |
@@ -85,48 +85,46 @@ work:
     date_start: 2024-12-01
     date_end: ''
     summary: |2-
-      Conducting research on discrete representation learning in DNNs<br>Advising PhD thesis and supervising summer interns<br>Teaching Assistant for introduction to Artificial Intelligence course
-  - position: Research Intern
+      Conducting research on discrete representation learning in DNNs<br>Co-advising PhD thesis and supervising summer interns<br>Teaching Assistant for introduction to Artificial Intelligence course
+  - position: Visiting Researcher
     company_name: Inria, France
     company_url: 'https://www.inria.fr/en'
     company_logo: ''
     date_start: 2024-09-01
     date_end: 2024-11-29
     summary: |
-      Worked on speaker anonymization in DNN-based speech processing tools.
+      Developed speaker anonymization algorithms in DNN-based speech processing tools.
+    - position: Doctoral Researcher
+    company_name: Department of Information and Communications Engineering, Aalto University
+    company_url: 'https://www.aalto.fi/en/department-of-information-and-communications-engineering'
+    company_logo: ''
+    date_start: 2020-11-16
+    date_end: '2020-11-30'
+    summary: |2-
+      Developed novel techniques from scratch that improves codebook learning enabling end-to-end training of DNNs, interpretability in DNNs, and speech privacy<br>Co-advising MSc students<br>Teaching assistant
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
-      - name: Python #(proficient)
-      - name: PyTorch #(proficient)
-      - name: TensorFlow #(intermediate)
-      - name: Keras #(intermediate)
-      - name: C/C++ #(intermediate)
-      - name: MATLAB #(intermediate)
-  - name: Soft Skills
+      - name: Python/PyTorch/TensorFlow
+      - name: C/C++ 
+      - name: MATLAB
+      - name: R
+      - name: Aim, Weights & Biases, TensorBoard
+      - name: Matplotlib/Altair/Seaborn
+      - name: Numpy/Pandas/SciPy
+      - name: Git
+      - name: CUDA
+      - name: VS Code/PyCharm/Jupyter
+      - name: Shell scripting
+      - name: LaTeX
+  - name: Knowledge
     items:
-      - name: Problem Solving
-      - name: Teamwork
-      - name: Interpersonal skill
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+      - name: Machine Learning (supervised/unsupervised/self-supervised learning, classification, clustering)
+      - name: Deep Neural Networks (Transformers, CNNs, GANs, VQ-VAEs, GNNs, RNNs, LSTM)
+  
 
 languages:
   - name: English
@@ -139,34 +137,30 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Doctoral Encouragement Grant
+  - title: Doctoral Research Excellence Scholarship
     url: https://www.nokiafoundation.com/nokia-scholarship
     date: '2023-09-01'
     awarder: Nokia Foundation
     icon: hero/currency-dollar
     summary: |
-      €5,000 grant for encouraging efficient, fast-progressing doctoral research
-  - title: Doctoral Encouragement Grant
+  - title: Doctoral Research Excellence Scholarship
     url: https://walterahlstrom.fi/en/recipients-of-the-grants/
     date: '2024-02-01'
     awarder: Walter Ahlström Foundation
     icon: hero/currency-dollar
     summary: |
-      €3,000 grant for encouraging efficient, fast-progressing doctoral research
-  - title: Research Internship Grant
+  - title: Research Visit Grant
     url: https://www.aalto.fi/en/foundation-for-aalto-university-science-and-technology/grants-from-the-foundations-own-funds
     date: '2024-05-01'
     awarder: Foundation for Aalto University Science and Technology
     icon: hero/currency-dollar
     summary: |
-      €3,000 grant for research internship at Inria, France
-  - title: Research Internship Grant
+  - title: Research Visit Grant
     url: https://www.aalto.fi/en/grants-and-awards/ernst-wirtzenin-rahasto
     date: '2023-12-01'
     awarder: Ernst Wirtzen Fund
     icon: hero/currency-dollar
     summary: |
-      €4,000 grant for research internship at Inria, France
 ---
 
 Mohammad Hassan Vali is a Postdoctoral Researcher in the [Department of Computer Science at Aalto University](https://www.aalto.fi/en/department-of-computer-science), Finland. His postdoctoral research, supervised by [Prof. Arno Solin](https://users.aalto.fi/~asolin/) and funded by the [Finnish Center for Artificial Intelligence](https://fcai.fi) (FCAI), focuses on discrete representation learning in deep neural networks. In particular, his work explores efficient vector quantization techniques with applications in image and speech processing, including image compression and generation, 3D Gaussian splatting compression, interpretable AI, speech privacy, and voice conversion.
