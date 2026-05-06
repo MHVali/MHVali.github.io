@@ -160,6 +160,7 @@ awards:
     awarder: Foundation for Aalto University Science and Technology
     icon: hero/currency-dollar
     summary: |
+  
   - title: Research Visit Grant
     url: https://www.aalto.fi/en/grants-and-awards/ernst-wirtzenin-rahasto
     date: '2023-12-01'
