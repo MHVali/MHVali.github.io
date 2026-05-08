@@ -81,7 +81,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         author: ''
@@ -98,7 +98,7 @@ sections:
     design:
       # Choose a layout view
       view: article-grid
-      columns: 2
+      columns: 3
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
