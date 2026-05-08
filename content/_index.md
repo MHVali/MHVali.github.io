@@ -63,15 +63,15 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: markdown
-    id: talks
-    content:
-      title: Invited Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+  # - block: markdown
+  #   id: talks
+  #   content:
+  #     title: Invited Talks
+  #     filters:
+  #       folders:
+  #         - events
+  #   design:
+  #     view: card
   - block: collection
     id: news
     content:
