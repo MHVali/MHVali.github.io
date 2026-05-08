@@ -45,14 +45,14 @@ sections:
   - block: collection
     # id: papers
     content:
-      title: Selected Publications
+      title: Research Highlights
       filters:
         folders:
           - selected_pubs
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
