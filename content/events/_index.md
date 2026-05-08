@@ -2,6 +2,7 @@
 title: Invited talks
 type: landing
 cms_exclude: true
+url: talk
 
 sections:
   - block: markdown
@@ -23,7 +24,7 @@ sections:
         
         - **Title:** Vector Quantization in Deep Neural Netwroks for Speech and Image Processing
         - **Date:** December 28, 2024
-        - **Type:** Keynote Speaker - Remote
+        - **Type:** Remote
         - **Link:** [https://klh.edu.in/ThinkAI2024/Speakers.html](https://klh.edu.in/ThinkAI2024/Speakers.html)
 
 
