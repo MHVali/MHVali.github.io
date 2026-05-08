@@ -52,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: masonry
-      # columns: 1
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
