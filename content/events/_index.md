@@ -2,7 +2,7 @@
 title: Invited talks
 type: landing
 cms_exclude: true
-url: talk
+url: events/
 
 sections:
   - block: markdown
