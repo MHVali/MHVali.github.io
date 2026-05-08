@@ -51,7 +51,7 @@ sections:
           - selected_pubs
         featured_only: true
     design:
-      view: showcase
+      view: card
       columns: 1
   - block: collection
     content:
