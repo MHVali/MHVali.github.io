@@ -51,7 +51,7 @@ sections:
           - selected_pubs
         featured_only: true
     design:
-      view: masonry
+      view: compact
       columns: 2
   - block: collection
     content:
