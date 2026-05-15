@@ -5,14 +5,14 @@ authors:
 - Mohammad Hassan Vali
 - My Nguyen
 - Silas Rech
-date: '2025-08-11'
+date: '2025-12-10'
 # publishDate: '2025-10-20T11:47:37.725415Z'
 publication_types:
 - article
-publication: '*arXiv preprint*'
+publication: '*IEEE Transactions on Audio, Speech and Language Processing*'
 links:
 # - name: arXiv
 #   url: https://arxiv.org/abs/2508.05250
 - name: URL
-  url: https://arxiv.org/abs/2508.05250
+  url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11293779
 ---
