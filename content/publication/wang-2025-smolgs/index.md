@@ -1,5 +1,5 @@
 ---
-title: Smol-GS: Compact Representations for Abstract 3D Gaussian Splatting
+title: "Smol-GS: Compact Representations for Abstract 3D Gaussian Splatting"
 authors:
 - Haishan Wang
 - Mohammad Hassan Vali
